@@ -9,6 +9,7 @@ h1,h2{
     text-align: center;
     }
 .div{
+    align-items: center;
     border: red solid ;
     }
 *{
