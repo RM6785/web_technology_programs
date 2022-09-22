@@ -4,18 +4,18 @@ h1,h2{
     text-align: center;
     }
 #body{
-    background-color: tan;
-    border: red dotted;
+    background-color: #23ACA6;
+    border: yellowgreen dotted;
     text-align: center;
     }
 .div{
-    border: peru solid ;
+    border: red solid ;
     }
 *{
     letter-spacing: 1px;
     }
 a:link{
-    color: black;
+    color: blue;
     }
 a:visited{
     color: yellow;
